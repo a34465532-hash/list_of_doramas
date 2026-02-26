@@ -1,0 +1,41 @@
+.blok1 {width:1000px;
+        color:red;
+		border: solid 1px black;
+		
+		
+}
+
+div{color:blue;}
+
+.blok2{width:1000 px;
+color:violet;
+border:solid 1px black;
+}
+
+.blok3{
+background-color:red;
+color:black;}
+
+.blok4{ width:300px;
+
+color:violet;
+
+}
+
+img {
+  padding: 10px;
+}
+
+.photo-row {
+    display: flex;
+    gap: 20px;
+}
+
+.photo-row img {
+    width: 500px;
+    height: auto;
+}
+
+.blok5{ width:1000px;
+
+color:aqua;
